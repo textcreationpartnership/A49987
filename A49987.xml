@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explanation of the Lord Treasurer's letter to Mr. Montagu, the Kings late embassador in France, March 25th, 1678 together vvith the said letter and the two letters of Mr. Montagu, which were read in the House of Commons.</title>
+            <author>Leeds, Thomas Osborne, Duke of, 1631-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49987</idno>
+            <idno type="STC">Wing L923</idno>
+            <idno type="STC">ESTC R12400</idno>
+            <idno type="EEBO-CITATION">12931642</idno>
+            <idno type="OCLC">ocm 12931642</idno>
+            <idno type="VID">95692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 387:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explanation of the Lord Treasurer's letter to Mr. Montagu, the Kings late embassador in France, March 25th, 1678 together vvith the said letter and the two letters of Mr. Montagu, which were read in the House of Commons.</title>
+                  <author>Leeds, Thomas Osborne, Duke of, 1631-1712.</author>
+                  <author>Montagu, Ralph Montagu, Duke of, 1638?-1709.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Lord Treasurer's letter to Mr. Montagu ... March 25th, 1678" signed: Danby.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  1660-1688.</term>
+               <term>France --  Foreign relations --  1643-1715.</term>
+               <term>Great Britain --  Foreign relations --  France.</term>
+               <term>France --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95692:1" rendition="simple:additions"/>
+            <p>AN EXPLANATION OF <hi>The Lord Treaſurer's</hi> LETTER TO Mr. Montagu, THE KINGS Late Embaſſador in <hi>FRANCE, March</hi> 25<hi rend="sup">th.</hi> 1678.</p>
+            <p>Together vvith the ſaid Letter: AND The TWO LETTERS of Mr. <hi>MONTAG<g ref="char:V">Ʋ</g>,</hi> Which were read in the Houſe of Commons.</p>
+            <p>Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95692:2"/>
+            <pb n="3" facs="tcp:95692:2"/>
+            <head>AN EXPLANATION OF The Lord Treaſurer's LETTER to Mr. <hi>Montagu.</hi>
+            </head>
+            <p>I Find ſo many miſconſtructions made of the Earl of <hi>Danby</hi>'s Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>Montague,</hi> the King's late Embaſſadour in <hi>France,</hi> dated the 25<hi rend="sup">th.</hi> of <hi>March,</hi> 1678, that I could not but in common Juſtice, give the World thoſe true Explanations of it, which muſt needs ſatis<g ref="char:EOLhyphen"/>fie the Minds of any, (who have no other than publique deſigns;) that there could be no ill-meaning to the Nation by that Letter, had it not been written by the King's Command upon the Subject of <hi>Peace</hi> and <hi>Warre,</hi> wherein his Majeſty alone is at all times Sole Judge, and ought to be obeyed not only by any of his Miniſters of State, but by all his Subjects.</p>
+            <p>In the firſt place the Letter ſhows, That what was ſent by the <hi>Earl,</hi> was but a Copy of thoſe Propoſals which were conſented to on the part of the Confederates, and ſent at the ſame time by Mr. Secretary <hi>Coventry;</hi> ſo that it appears, the ſubject matter of the Propoſals was not onely known to the Secretaries, but approved by the reſt of the Council; and the Letter alſo ſhows the reaſon why full direction was not then given by the Secretary to conclude upon them; be<g ref="char:EOLhyphen"/>cauſe, although his Maieſtie at that time, knew by Mr. <hi>Godolphin,</hi> that thoſe were the Propoſitions upon which the Confederates would make the Peace if they could; yet the formal Powers were not then come from them, which ſhould inable the Embaſſadour in <hi>France</hi> to perfect the Treaty, if the <hi>French</hi> King ſhould accept it.</p>
+            <p>At the ſame time when this intimation was given to His Majeſtie of the Confederates deſiring the Peace upon thoſe Conditions, (and as the only means left to Save <hi>Holland,</hi> and the Intereſt of the Prince of <hi>Orange</hi> there,) it was alſo deſired of his Majeſtie, That whileſt ſuch formal Powers were preparing to conclude ſuch a Peace, his Majeſtie would pleaſe in their behalf to find by ſome private means the Humour of the <hi>French</hi> King, Whether it were likely he would accept thoſe Propoſitions when they ſhould be offered to Him, as
+<pb n="4" facs="tcp:95692:3"/>believing it might be ſome diſadvantage to the Confederates to pro<g ref="char:EOLhyphen"/>poſe them, if they ſhould be refuſed.</p>
+            <p>And this was the Motive (at their Requeſt, and at a time, when both <hi>Ghent</hi> and <hi>Ipres</hi> were newly taken, and <hi>Holland</hi> under the ut<g ref="char:EOLhyphen"/>moſt conſternation) that His Majeſty, to comply with them in a Matter which ſo highly concerned their Safety, did think fit for the Secrecy of it according to their deſires, to have the King of <hi>France</hi> his Mind known privately, and with all the ſpeed poſſible, that He might let the <hi>Confederates</hi> know the <hi>French</hi> King's Intentions, before they expoſed themſelves to a Publique Offer of what might be re<g ref="char:EOLhyphen"/>fuſed.</p>
+            <p>This is the true meaning of what is ſaid about <hi>feeling</hi> the King of <hi>France's Pulſe,</hi> and making one Anſwer to be ſhowed to the Secre<g ref="char:EOLhyphen"/>tary, and another to the King himſelf, who endeavoured to ſend an account into <hi>Holland</hi> of the <hi>French</hi> King's Anſwer, as privately, and ſpeedily as was poſſible; and unleſs the Peace had been fully com<g ref="char:EOLhyphen"/>pleated, (the advantagious terms whereof would have anſwered for themſelves,) his Majeſty thought it might be ill reſented by the Parliament, who could not preſently know, either the earneſt Re<g ref="char:EOLhyphen"/>queſt of the Confederates for the Peace, their Neceſſity of obtaining it, their Countries being in a readineſs for a Revolt, nor the good<g ref="char:EOLhyphen"/>neſs of thoſe Conditions which were demanded, and which made them unlikely to be granted: as is afterwards expreſſed in the ſaid Letter.</p>
+            <p>As to that part of the Letter which ſayes, <hi>(In caſe the Conditions of Peace ſhall be accepted, the King expects to have Six Millions of Livres Yearly, for three Years, from the time that this Agreement ſhall be ſigned be<g ref="char:EOLhyphen"/>tween His Majesty and the King of</hi> France; <hi>becauſe it will be two, or three Years before be can hope to find his Parliament in humor to give him Supplies, after the having made any Peace with</hi> France;) it is ſo preſently followed with this Clauſe, <hi>(If you find the Peace will not be accepted, you are not to mention the Money at all;)</hi> And ſo ſoon after that with this farther Clauſe; <hi>(That you believe, this will be the laſt time that you ſhall receive any Propoſitions of a Peace, if theſe be rejected, as you believe they will,)</hi> that it cannot be thought to have any dangerous meaning in it, nor any great hopes of getting the Money: but that it may be the more fully underſtood, you will find by Mr. <hi>Montagu</hi>'s Let<g ref="char:EOLhyphen"/>ter of the 18<hi rend="sup">th</hi> of <hi>Jan.</hi> 1677/1678, which was read in the Houſe of Com<g ref="char:EOLhyphen"/>mons, (and for which cauſe I have added the ſaid Letter.) viz. (<hi>If the King is for a Warre, you know what to do; if he hearkens to their Money, be pleaſed to let me know what they offer, and I dare anſwer to get our Maſter as much again; for</hi> Barrillon <hi>'s Orders are to make the Market as low as he can.</hi>
+            </p>
+            <pb n="5" facs="tcp:95692:3"/>
+            <p>Now, as Offers of Money had often been made both by Mr. <hi>Montagu,</hi> and Monſieur <hi>Barrillon,</hi> for a Peace upon <hi>French</hi> Conditions, and Six Millions of Livres had been offered by Monſieur <hi>Barrillon</hi> for one Year; ſo, Mr. <hi>Montagu</hi> having informed the King, that whatever Monſieur <hi>Barrillon</hi> ſhould offer, he could get as much again, his Majeſty was reſolved to try Mr. <hi>Montagu</hi>'s power, in caſe the <hi>French</hi> would conſent to the Confederates Conditions; and in addition to Mr. <hi>Montagu</hi>'s own Intereſt in moving the <hi>French</hi> King to give the Six Millions for more Years than one, his Majeſty thought it might be a good Motive, without prejudice to the Par<g ref="char:EOLhyphen"/>liament or Nation, (which would have ſaved their own Money thereby;) to ſay it would be two or three Years before he could hope to find his Parliament in humor to give him Supplies, after having made any Peace with <hi>France.</hi>
+            </p>
+            <p>The reaſon why nothing was to be ſaid to the <hi>Secretary</hi> concern<g ref="char:EOLhyphen"/>ing the Money, was becauſe Mr. <hi>Montagu</hi> in a former Letter to the King himſelf, had deſired that he would acquaint no body but the Earl of <hi>Danby</hi> with the buſineſs of the Money: ſo that he found that imployment for the Earl, of which he thought fit after to accuſe him.</p>
+            <p>As I hope I have ſufficiently explained thoſe parts of the Letter, which are liable to miſconſtruction, <hi>viz.</hi> The Reaſons for the Pri<g ref="char:EOLhyphen"/>vacy of the Negotiation, for the ſake of the Confederates: The Grounds upon which the Money was expected: The Reaſon why the Earl of <hi>Danby</hi> was imployed in that buſineſs of the Money, and why no mention was to be made of it to the <hi>Secretary,</hi> and the Rea<g ref="char:EOLhyphen"/>ſons why his Majeſty would not have his Parliament to know it until the Conditions had been perfected, (of which his Majeſty would have then been able to have given a very good account) or being broken quite off, never needed to have been known at all.</p>
+            <p>I ſay, having ſpoke to all thoſe Particulars, I muſt likewiſe crave liberty to obſerve to you thoſe Parts of the ſame Letter, which do ſufficiently ſhow that his Majeſty was not in the leaſt to be drawn from the Intereſt of the Confederates, for any private gain of Money to himſelf.</p>
+            <p>For you ſee the Embaſſadour had agreed to the Summe, but not for ſo long a time, and no man can imagine why Six Millions of Livres ſhould have been refuſed, if either his Majeſty had had any ill deſign at home, or would have deſerted the Confederates; but on the contrary, you ſee his Majeſty would make no Propoſals, but
+<pb n="6" facs="tcp:95692:4"/>what they deſired; nor even thoſe, without being preſt by them to it: nor would he have any motion of Money to the <hi>French</hi> King, unleſs he accepted thoſe very Conditions, ſo deſired by the Confe<g ref="char:EOLhyphen"/>derates; and if the Confederates could have obtained ſuch a Peace as they deſired, and his Majeſty a good Summe of Money towards defraying thoſe Charges he had been at, without taxing of his Peo<g ref="char:EOLhyphen"/>ple; I conceive it ought to have been eſteemed good Policy, as it hath been in the former times of <hi>H.</hi> 7<hi rend="sup">th</hi>, &amp; <hi>H.</hi> 8<hi rend="sup">th</hi>; rather than made a pretence of Treaſon: but how the not doing any of thoſe things excepted againſt in that Letter, (and that plainly by reaſon of the King's great Integrity to the Confederate Intereſt, which He ſo evidently prefer'd before His own Perſonal Advantage) ſhould be<g ref="char:EOLhyphen"/>come Treaſon, is beyond my comprehenſion.</p>
+            <p>I hear, it is made a great aggravation of this Letter, that it is da<g ref="char:EOLhyphen"/>ted five dayes after an Act paſt to raiſe Money for an Actual Warre with <hi>France:</hi> But ſurely every man knowes, That an Act to raiſe Money for a Warre, is no Declaration of the Warre.</p>
+            <p>That his Majeſty hath alwayes the Sole Power of Peace and War in his own hands.</p>
+            <p>That His Miniſters were never recalled from Treating the Peace at <hi>Nimiguen;</hi> and beſides, our then ill prepared Condition for a War, that of the Confederates was then ſo low, that it was not above a Week after, that the <hi>French</hi> Propoſitions were made at <hi>Ni<g ref="char:EOLhyphen"/>miguen,</hi> upon which the Peace was concluded, and after which Pro<g ref="char:EOLhyphen"/>poſitions (although far worſe ones, than what had been Offered by his Majeſty but ten dayes before) the <hi>Dutch</hi> would never think of ſupporting the Warre any longer; and ſo far was his Majeſty from agreeing to that Peace which was then made, that his Majeſtie's Miniſters at <hi>Nimiguen</hi> did not only refuſe to ſign it; but his Majeſty uſed all poſſible means to engage the <hi>Dutch</hi> with Him in the Offen<g ref="char:EOLhyphen"/>ſive Treaty againſt <hi>France;</hi> and though He could not procure them to do ſo, He ſent an Army ſo ſoon as it was in readineſs, to March to their aſſiſtance, and thereby, had it been poſſible, he endeavoured to have encouraged them to continue the Warre.</p>
+            <p>Though a great deal more is to be ſaid upon this Subject, I think this enough to convince any man, that as this Letter did no harm, nor hindred one ſtep of the Preparations for Warre againſt <hi>France;</hi> ſo that it intended nothing of ill either to the Kingdom, or the Cauſe of the Confederates, and therefore the writer of it can de<g ref="char:EOLhyphen"/>ſerve no blame from this Letter, if it had not been written by the King's Command and Direction.</p>
+            <pb n="7" facs="tcp:95692:4"/>
+            <p>As I have wondred much at thoſe ſtrained conſtructions I have found upon this Letter, ſo I confeſs I have not been able to give my ſelf a reaſon how this Letter ſhould only find the hard fate of being loaded with ſuch Crimes, and yet nothing ſaid to thoſe Letters of Mr. <hi>Montagu</hi>'s, the Originals of which were alſo read in the Houſe of Commons, which do ſo manifeſtly give his Majeſty the invita<g ref="char:EOLhyphen"/>tions to expect great Sums from <hi>France,</hi> if he would endeavour it; and which does acknowledg this Earl to be ſo great an Enemy to <hi>France</hi> above all other men; That it was grown a Maxim to the States-men there, by one who very well underſtood the ſtate of this Kingdom, <hi>That they muſt destroy his Credit with our King, before they could hope to do any good in</hi> England. And I pray God it be not found too true.</p>
+            <div type="letter">
+               <head>The Lord Treaſurer's Letter to Mr. <hi>Montagu,</hi> the King's late Embaſſadour in <hi>France,</hi> March <hi>25<hi rend="sup">th.</hi> 1678.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>SInce my Writing to you by Mr. <hi>Brisbon,</hi> the Reſolves have been altered as to the ſending you Inſtructions (as yet) for the propoſing any thing to the <hi>French</hi> King; for the Particulars which will be conſented to on the part of the Confederates, (and of which this is a Copy) will be communicated to you by Mr. Secre<g ref="char:EOLhyphen"/>tary <hi>Coventry,</hi> but you will have no other direction from him about them, but onely thereby to be enabled to find the Pulſe of the King, or his Miniſters, at leaſt againſt the time that you ſhall receive Or<g ref="char:EOLhyphen"/>ders to make the Propoſals to him. That you may know from whence the nicety of that affair proceeds, it is neceſſary to inform you, that for fear of its being ill reſented by the Parliament here, the King will not make any propoſal at all of Peace, unleſs he ſhall be preſt to it by the Confederates: And altho by Mr. <hi>Go<g ref="char:EOLhyphen"/>dolphin</hi> he is ſufficiently informed that they deſire a Peace upon the Articles ſent you by the Secretary, yet not having received that deſire formally, the Council will not Adviſe his Majeſty to let his Embaſſador propoſe that which he is not formally impowred to make good; and ſo by ſtaying for that formal Power which by Letter his Majeſty is ſufficiently inabled to propoſe, the time will be loſt for effecting the Peace, if at all it can be had. To ſupply this defect then, and to prevent the King's ſending again into <hi>Hol<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="8" facs="tcp:95692:5"/>before he know the mind of <hi>France,</hi> I am commanded by His Majeſtie, to let you know, That you are to make the Propoſitions incloſed to the King of <hi>France,</hi> and to tell him, The King will un<g ref="char:EOLhyphen"/>dertake for the ſeeing them made good on the part of <hi>Spain,</hi> and <hi>Holland,</hi> in caſe they ſhall be accepted by him. And in your an<g ref="char:EOLhyphen"/>ſwers you muſt write the ſame things to the Secretaries by way only of having felt the King of <hi>France's</hi> Pulſe, which you muſt do to the King as a full anſwer from the King of <hi>France,</hi> and ſuch an one as his Majeſtie may depend upon whatever that ſhall be. For the more dextrous management of this Affair, the King is adviſed to ſhow theſe Propoſitions to Monſieur <hi>Barrillon,</hi> but not to give him a Copy; ſo that by the ſtrength of his Memory it is expected he ſhall write to his Maſter, and by that means only are we to hope for an anſwer to a matter of this vaſt Importance. And conſe<g ref="char:EOLhyphen"/>quently you may imagine what a ſatisfaction we are like to reap from it when it comes. I doubt not but by your Conduct it will be brought to a ſpeedy Iſſue; which is of as great Importance as the thing it ſelf, there being no condition worſe for his Majeſtie, then this ſtanding unreſolved betwixt Peace and Warre. I find by Mon<g ref="char:EOLhyphen"/>ſieur <hi>Barrillon,</hi> that it is like ſome Places which are dependances upon greater Towns, may be demanded by the King of <hi>France;</hi> but if he intend a Peace, (which you will do very well to know his mind fully in) you may juſtly ſay, That you hope he will neither ſtand upon one ſingle Place, tho a fortified one, nor upon any Place unfortified, which is a dependant upon thoſe which are to be reſto<g ref="char:EOLhyphen"/>red to <hi>Spain.</hi> And if any thing ſhall be moved about <hi>Sicily</hi> to re<g ref="char:EOLhyphen"/>main in the <hi>French</hi> hands till the Peace of <hi>Sweden</hi> be concluded, you are onely to ſay, That you are not impowred to ſay any thing upon it: and you are confident the King hath done all he could to get the utmoſt Conditions that would be conſented to: Onely you are to ſay, The King hath again ſent about <hi>Conde,</hi> not being well ſatiſ<g ref="char:EOLhyphen"/>fied that they have not left in his Power to give or refuſe as he ſhould have found it convenient, and hopeth ſtill for ſome good an<g ref="char:EOLhyphen"/>ſwer. In caſe the Conditions of Peace ſhall be accepted, the King expects to have Six Millions of Livres yearly for three years, from the time that this agreement ſhall be ſigned between his Majeſtie and the King of <hi>France:</hi> becauſe it will be two or three years before he can hope to find his Parliament in humour to give him Supplies, after the having made any Peace with <hi>France.</hi> The Embaſſador here hath agreed to the Summe, but not for ſo long a time; but if you find the Peace will not be accepted, you are not to mention the Mo<g ref="char:EOLhyphen"/>ney at all, and all care muſt be taken to have this whole Negotiation
+<pb n="9" facs="tcp:95692:5"/>as private as poſſible, for fear of giving offence at home, where for the moſt part we hear in ten dayes after any thing that is communi<g ref="char:EOLhyphen"/>cated to the <hi>French</hi> Miniſters. I muſt again repeat to you, That whatſoever you write on this Subject to the Secretary, to whom you muſt not mention one ſyllable of the Money, you muſt ſay onely as a thing you believe they will conſent to, if you had power formally to make theſe demands. Pray inform your ſelf of the bottom of what is to be expected from <hi>France,</hi> and aſſure them, That you believe this will be the laſt time that you ſhall receive any Propoſitions of a Peace if theſe be ſlighted, as indeed I believe they will: ſo that you may take your own meaſures as well as the King's upon it. I am</p>
+               <closer>
+                  <signed>Your Excellencie's moſt Faithful and obedient Servant, <hi>Danby.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Mr.</hi> MONTAGU'S <hi>Letter to the</hi> LORD TREASURER, <hi>Dated</hi> Paris, <hi>Jan.</hi> 11<hi rend="sup">th</hi>. 1677/8.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>I Have not had the honour of any from your Lordſhip, in anſwer to all thoſe, wherein I gave you the beſt account I could of mat<g ref="char:EOLhyphen"/>ters here, by the Expreſs I ſent. Nor indeed could I expect his Majeſtie could take any ſuddain reſolution in matters of ſo great moment.</p>
+               <p>The occaſion of my giving you this trouble, is, to give you the beſt light I can into the reaſon of Mr. <hi>de Rouvigny</hi>'s Son's Journey into <hi>England,</hi> who will be there perhaps as ſoon as this Letter. If his Father's Age would have permitted it, I believe they would have ſent him; ſo they have choſen the Son, who is to make uſe of Lights his Father will give him, and by the near Relation he hath to my Lady <hi>Vaughan,</hi> who is his Couſin-German, and the particular Friend<g ref="char:EOLhyphen"/>ſhip which Father and Son have with Mr. <hi>William Ruſſell,</hi> he is to be introduced into a great commerce with the Malecontented Members of Parliament, and inſinuate what they ſhall think fit to croſs your Meaſures at Court, if they ſhall prove diſagreeable here; whileſt Monſieur <hi>Barrillon</hi> goes on in his ſmooth civil way.</p>
+               <pb n="10" facs="tcp:95692:6"/>
+               <p>I thought it my duty to his Majeſtie to give your Lordſhip this account, tho I have not explained this matter ſo much in my Let<g ref="char:EOLhyphen"/>ter to the Secretary; wherefore I hope you will let this be ſeen by none but his Majeſtie. What I know farther of this, or any thing elſe, you ſhall always be acquainted with. They are here in great pain, till it will be known what will become of the Parliament, and do not ſtick to ſay, If that be put off for a Month, they doubt not of a Peace. I am with all reſpect,</p>
+               <closer>
+                  <salute>My Lord,</salute> 
+                  <signed>Your Lordſhips Moſt obedient and humble Servant, <hi>R. Mountagu.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Another of Mr. <hi>MONTAGU'S</hi> Letters to the <hi>Lord Treaſurer.</hi> Dated <hi>Paris,</hi> Jan. <hi>18<hi rend="sup">th</hi>. 1677/8.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>SInce I ſealed up my Letter, by my Lord <hi>Dumblane,</hi> I have had one with me who is very exactly, as can be, informed of moſt things here, and hath told me the reaſon of <hi>Rouvigny</hi>'s Journey.</p>
+               <p>His chief Errand is, to let the King know, That the King of <hi>France</hi> did hope he was ſo firm to him, as not to be led away by the <hi>Grand Treaſurer;</hi> who was an Ambitious Man, and, to keep himſelf well with the People, would gratifie their inclinations, by leading his Maſter unto an unreaſonable Warre againſt <hi>France.</hi> That as for Money, if he wanted it, he ſhould have what he would from hence.</p>
+               <p>His Inſtructions are, if this does not take, by the means of <hi>Will. Ruſsell,</hi> and other diſcontented people, to give a great deal of Money, and croſs all your Meaſures at Court.</p>
+               <p>When he gives you his Father's Letter of Recommendation, you cannot chuſe but be very kind to him, ſince the chief part of his Jour<g ref="char:EOLhyphen"/>ney is to do you ſo good Offices. My Lord, if I might be worthy
+<pb n="11" facs="tcp:95692:6"/>to give my advice, who ſee things upon the place, There could be nothing better done, than after he hath been two dayes in <hi>England,</hi> for the King to give the Order to tell Monſieur <hi>Barrillon,</hi> That he knowes <hi>Rouvigny</hi> hath a Relation, and Commerce with people ill-affected to the Government; and would be therefore glad to have him retire. You cannot imagin how it would damp them here, when they ſhall ſee their little tricks do not paſs upon us.</p>
+               <p>And Old <hi>Rouvigny</hi> that values himſelf upon knowing <hi>England,</hi> and having ſaved ſo much Money as he had (by what I told you formerly) order to give, hath given it them for a Maxim, <hi>That they must diminiſh your Credit, before they can do any good in</hi> England. But ſince their chief Quarrel to you, is the being ſo true to your Maſter's Intereſt, I am ſure he is too juſt to let them do you any hurt.</p>
+               <p>
+                  <hi>If the King is for a Warre, you know what to do; if he hearkens to their Money, be pleaſed to let me know what they offer, and I dare anſwer, to get our Master as much again: for</hi> Barrillon's <hi>Orders are to make the Market as low as he can.</hi> I am, &amp;c.</p>
+               <closer>
+                  <signed>R. Mountagu.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
